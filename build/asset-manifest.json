@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2af86767.css",
+    "main.js": "/static/js/main.20cacc60.js",
+    "static/media/cocoon.mp4": "/static/media/cocoon.c1bb5ab6b65829bdc74e.mp4",
+    "static/media/pizza1.png": "/static/media/pizza1.654c0ad40f35c0160d07.png",
+    "static/media/cover.jpg": "/static/media/cover.1d87860706a455eac63f.jpg",
+    "static/media/contact-img.png": "/static/media/contact-img.d297e4b2d47eb5c28ea2.png",
+    "static/media/logococoon.png": "/static/media/logococoon.abd62e73c72602efdf8d.png",
+    "static/media/burger.jpg": "/static/media/burger.f6406478c78b816d30cf.jpg",
+    "static/media/profile.png": "/static/media/profile.af32b144705f131394bc.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/phone.svg": "/static/media/phone.e9f7f4e0d6dbe0c691a82dbd3fd35980.svg",
+    "static/media/mail.svg": "/static/media/mail.d5bd07212c2c0b00d3237a7c88be5319.svg",
+    "index.html": "/index.html",
+    "static/media/loc.svg": "/static/media/loc.871bcc558fa3b857644bc5ec36882bc6.svg",
+    "main.2af86767.css.map": "/static/css/main.2af86767.css.map",
+    "main.20cacc60.js.map": "/static/js/main.20cacc60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2af86767.css",
+    "static/js/main.20cacc60.js"
+  ]
+}
